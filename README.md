@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahmoudAhmedBasha
 - 👀 I’m interested in .Net Techonology 
-- 🌱 I’m currently learning .Net Core 6
+- 🌱 I’m currently learning .Net Core and Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: m.a.basha@outlook.com
 
